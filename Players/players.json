@@ -1,0 +1,161 @@
+[
+{	"Type":"Player",
+	"Name":"Ann Wall",
+	"Set":"Base",
+	"Art":"player-ann-wall.svg",
+	"Skills": {
+		"Special":"May take control of a ball when it passes through an adjacent hex as long as no one has control of the ball.",
+		"Speed":"2",
+		"Size":"3",
+		"Feet":{ "Pass":"4", "Shoot":"1"},
+		"Hands":{ "Pass":"4", "Shoot":"1"}
+	}
+},
+{	"Type":"Player",
+	"Name":"Ball Hog",
+	"Set":"Base",
+	"Art":"player-ball-hog.svg",
+	"Skills": {
+		"Special":"May control more than one ball at a time. If something causes Ball Hog to lose control of one ball, he loses control of them all.",
+		"Speed":"3",
+		"Size":"3",
+		"Feet":{ "Pass":"2", "Shoot":"3"},
+		"Hands":{ "Pass":"2", "Shoot":"3"}
+	}
+},
+{	"Type":"Player",
+	"Name":"Comeback Kid",
+	"Set":"Base",
+	"Art":"player-ball-hog.svg",
+	"Skills": {
+		"Special":"If you do not have the highest score, Comeback Kid gets +1 to all skills. If you have the lowest score, Comeback Kid gets +2 to all skills.",
+		"Speed":"3",
+		"Size":"1",
+		"Feet":{ "Pass":"3", "Shoot":"2"},
+		"Hands":{ "Pass":"3", "Shoot":"2"}
+	}
+},
+{	"Type":"Player",
+	"Name":"Formato de Bola",
+	"Set":"Base",
+	"Art":"player-formato-de-bola.svg",
+	"Skills": {
+		"Special":"When the last player to take a turn during a round gets a +1 to his shooting.",
+		"Speed":"4",
+		"Size":"2",
+		"Feet":{ "Pass":"6", "Shoot":"4"},
+		"Hands":{ "Pass":"1", "Shoot":"1"}
+	}
+},
+{	"Type":"Player",
+	"Name":"Grok",
+	"Set":"Base",
+	"Art":"player-grok.svg",
+	"Skills": {
+		"Special":"At the begining of the round you may choose to discard your hand and draw no new cards. If you do, Grok gets +3 size, +1 to both pass and shoot and +1 speed.",
+		"Speed":"3",
+		"Size":"2",
+		"Feet":{ "Pass":"4", "Shoot":"2"},
+		"Hands":{ "Pass":"4", "Shoot":"2"}
+	}
+},
+{	"Type":"Player",
+	"Name":"Hollywood",
+	"Set":"Base",
+	"Art":"player-hollywood.svg",
+	"Skills": {
+		"Special":"When Hollywood does not have control of a ball he gets -2 to his speed.",
+		"Speed":"4",
+		"Size":"1",
+		"Feet":{ "Pass":"1", "Shoot":"6"},
+		"Hands":{ "Pass":"1", "Shoot":"6"}
+	}
+},
+{	"Type":"Player",
+	"Name":"Hopper",
+	"Set":"Base",
+	"Art":"player-hopper.svg",
+	"Skills": {
+		"Special":"May move through a space occupied by another player.",
+		"Speed":"4",
+		"Size":"2",
+		"Feet":{ "Pass":"4", "Shoot":"2"},
+		"Hands":{ "Pass":"4", "Shoot":"2"}
+	}
+},
+{	"Type":"Player",
+	"Name":"Jesse Io",
+	"Set":"Base",
+	"Art":"player-jesse-io.svg",
+	"Skills": {
+		"Special":"At the begining of each round, you may discard your hand and draw three new cards.",
+		"Speed":"4",
+		"Size":"1",
+		"Feet":{ "Pass":"0", "Shoot":"0"},
+		"Hands":{ "Pass":"4", "Shoot":"2"}
+	}
+},
+{	"Type":"Player",
+	"Name":Michelle Jordyn",
+	"Set":"Base",
+	"Art":"player-michelle-jordyn.svg",
+	"Skills": {
+		"Special":"Michelle Jordyn has her skills set to 75% (rounded up) of the player with the highest skill currently in the game.",
+		"Speed":"*",
+		"Size":"*",
+		"Feet":{ "Pass":"*", "Shoot":"*"},
+		"Hands":{ "Pass":"*", "Shoot":"*"}
+	}
+},
+{	"Type":"Player",
+	"Name":Mr. Unreliable",
+	"Set":"Base",
+	"Art":"player-mr-unreliable.svg",
+	"Skills": {
+		"Special":"At the begining of each round roll a six sided die, Mr. Unreliable’s skills are all equal to that die roll.",
+		"Speed":"*",
+		"Size":"*",
+		"Feet":{ "Pass":"*", "Shoot":"*"},
+		"Hands":{ "Pass":"*", "Shoot":"*"}
+	}
+},
+{	"Type":"Player",
+	"Name":Robotinator",
+	"Set":"Base",
+	"Art":"player-robotinator.svg",
+	"Skills": {
+		"Special":"If you draft Robotinator, you may have no other players on your team.",
+		"Speed":"4",
+		"Size":"5",
+		"Feet":{ "Pass":"9", "Shoot":"7"},
+		"Hands":{ "Pass":"9", "Shoot":"7"}
+	}
+},
+{	"Type":"Player",
+	"Name":Shooter Goldstein",
+	"Set":"Base",
+	"Art":"player-shooter-goldstein.svg",
+	"Skills": {
+		"Special":"After passing the ball to another player, if the next player shoots the ball they receive +2 to their shooting rating.",
+		"Speed":"3",
+		"Size":"2",
+		"Feet":{ "Pass":"1", "Shoot":"1"},
+		"Hands":{ "Pass":"6", "Shoot":"4"}
+	}
+},
+{	"Type":"Player",
+	"Name":The Refridgerator",
+	"Set":"Base",
+	"Art":"player-the-refridgerator.svg",
+	"Skills": {
+		"Special":"If your team controls the ball and The Refridgerator is the first player to take an action he gets +1 to his speed. May use an extra action each round to check.",
+		"Speed":"2",
+		"Size":"6",
+		"Feet":{ "Pass":"2", "Shoot":"1"},
+		"Hands":{ "Pass":"2", "Shoot":"1"}
+	}
+}
+]
+
+
+
