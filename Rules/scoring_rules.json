@@ -1,0 +1,68 @@
+[
+{	"Type":"Scoring Rule",
+	"Name":"",
+	"Set":"Base",
+	"Art":"",
+	"Text": "When a team controls the ball in a zone directly across from their zone they are awarded 3 points. If they control the ball in a zone adjacent to a zone across from theirs they are awarded 1 point.
+
+After the score the ball is reset in the center hex."
+},
+{	"Type":"Scoring Rule",
+	"Name":"",
+	"Set":"Base",
+	"Art":"When a team shoots a ball out of the playing area using their feet through an opponent’s zone, 5 points are awarded to the shooting team. When a team controls the ball in an opponents zone, 4 points are awarded to the controlling team.
+
+After the score the ball is reset in the center hex.",
+	"Text": ""
+},
+{	"Type":"Scoring Rule",
+	"Name":"",
+	"Set":"Base",
+	"Art":"When a team shoots a ball out of the playing area through an opponent’s zone,1 point is awarded to the shooting team.
+
+After the score the ball is reset in the center hex.",
+	"Text": ""
+},
+{	"Type":"Scoring Rule",
+	"Name":"",
+	"Set":"Base",
+	"Art":"",
+	"Text": "When a ball ends in a zone, not under control, 1 point is awarded to the team who’s ball the zone is in at the end of the round."
+},
+{	"Type":"Scoring Rule",
+	"Name":"",
+	"Set":"Base",
+	"Art":"",
+	"Text": "When a team controls the ball in an opposing teams zone, 6 points is awarded to the controlling team.
+
+After the score the ball is reset in the center hex."
+},
+{	"Type":"Scoring Rule",
+	"Name":"",
+	"Set":"Base",
+	"Art":"",
+	"Text": "When a team shoots a ball out of the playing area through an opponent’s zone, 2 points are awarded to the shooting team. If the shooting player was more than 4 spaces from the edge of the playing area when scoring, 3 points are awarded.
+
+After the score, the ball is taken control by the closest player who’s zone was scored in."
+},
+{	"Type":"Scoring Rule",
+	"Name":"",
+	"Set":"Base",
+	"Art":"",
+	"Text": "When a team shoots a ball out of the playing area through an opponent’s zone, 3 point is awarded to the shooting team.
+
+After the score, the ball is set at the edge of the scoring teams zone."
+},
+{	"Type":"Scoring Rule",
+	"Name":"",
+	"Set":"Base",
+	"Art":"",
+	"Text": "When a team controls the ball in the center hex at the end of a round, 1 point is awarded to the controlling team."
+},
+{	"Type":"Scoring Rule",
+	"Name":"",
+	"Set":"Base",
+	"Art":"",
+	"Text": "When the ball is in the zone of a player at the end of a round, that player removes 1 point from their score. Their score can not drop below 0."
+}
+]

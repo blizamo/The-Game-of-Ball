@@ -1,0 +1,62 @@
+[
+{	"Type":"Extra Rule",
+	"Name":"Brass Ball",
+	"Set":"Base",
+	"Art":"",
+	"Text": "The game is played with a solid brass ball. All players get -2 to their feet skills. All players may “check” with the ball. To do this “pass” the ball to an opposing player, then roll the number of dice equal to the pass number used. The defending player rolls a standard check defense with their size, if their number is lower they become checked. The ball will stop at the last hex before the defending player."
+},
+{	"Type":"Extra Rule",
+	"Name":"Field Goals",
+	"Set":"Base",
+	"Art":"Players may only shoot the ball with their feet.",
+	"Text": ""
+},
+{	"Type":"Extra Rule",
+	"Name":"No Feet",
+	"Set":"Base",
+	"Art":"Players may not use their feet to pass or shoot the ball.",
+	"Text": ""
+},
+{	"Type":"Extra Rule",
+	"Name":"One Goalie",
+	"Set":"Base",
+	"Art":"",
+	"Text": "Only one player may be in their team’s zone at a time."
+},
+{	"Type":"Extra Rule",
+	"Name":"Soccer",
+	"Set":"Base",
+	"Art":"",
+	"Text": "Players may not use their hands to pass or shoot the ball. If a player is in their own zone, they may use their hands to pass or shoot the ball."
+},
+{	"Type":"Extra Rule",
+	"Name":"Steroids",
+	"Set":"Base",
+	"Art":"",
+	"Text": "All players get +1 to their all their shooting, passing and moving abilities."
+},
+{	"Type":"Extra Rule",
+	"Name":"Travelling",
+	"Set":"Base",
+	"Art":"",
+	"Text": "If the same player has had control of a ball for a third straight round, and has not shot or passed the ball, the ball is immediately put into control of the player’s nearest opponent."
+},
+{	"Type":"Extra Rule",
+	"Name":"Two Minutes for Checking",
+	"Set":"Base",
+	"Art":"",
+	"Text": "Two minutes for checking. If a player checks another player, the checking player must to the back of their zone and skip the next round. All other effects of the check play out normally."
+},
+{	"Type":"Extra Rule",
+	"Name":"Ultimate",
+	"Set":"Base",
+	"Art":"",
+	"Text": "Players may not move while controlling the ball."
+},
+{	"Type":"Extra Rule",
+	"Name":"Unlimited Events",
+	"Set":"Base",
+	"Art":"",
+	"Text": "Any number of event cards can be player during a turn."
+}
+]

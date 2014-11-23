@@ -1,0 +1,128 @@
+[
+{	"Type":"Event",
+	"Name":"Bean Ball",
+	"Set":"Base",
+	"Art":"",
+	"Text": ""
+},
+{	"Type":"Event",
+	"Name":"Blind Ref!",
+	"Set":"Base",
+	"Art":"",
+	"Text": "Ignore a rule for the rest of the round."
+},
+{	"Type":"Event",
+	"Name":"Blue Bomb",
+	"Set":"Base",
+	"Art":"",
+	"Text": "All the players on the team who has the highest score become “down”."
+},
+{	"Type":"Event",
+	"Name":"Cardiac Arrest",
+	"Set":"Base",
+	"Art":"",
+	"Text": "If your score is the second highest all of your players get +3 to their feet and hand skills until the end of the round."
+},
+{	"Type":"Event",
+	"Name":"Child Abuse!",
+	"Set":"Base",
+	"Art":"",
+	"Text": "If the player “The Littelest One” is checked and this card is played the player that had checked “The Littelest One” is removed from play from the rest of the game, and the team who “The Littelest One” is on is awarded 10 points."
+},
+{	"Type":"Event",
+	"Name":"Choke",
+	"Set":"Base",
+	"Art":"",
+	"Text": "When a player of your opponents shoots a ball, you may choose the direction that the ball is shot. The distance the ball travels remains the same."
+},
+{	"Type":"Event",
+	"Name":"Cry Foul",
+	"Set":"Base",
+	"Art":"",
+	"Text": "Cancel the effect of an event card that was just played."
+},
+{	"Type":"Event",
+	"Name":"Fifth Down",
+	"Set":"Base",
+	"Art":"",
+	"Text": "Your entire team becomes “active” and each player may take an extra action this round."
+},
+{	"Type":"Event",
+	"Name":"From Downtown",
+	"Set":"Base",
+	"Art":"",
+	"Text": "+5 to the hands shot of a single player on your team until the end of the round."
+},
+{	"Type":"Event",
+	"Name":"Fumble",
+	"Set":"Base",
+	"Art":"",
+	"Text": "Player loses control of a ball. The ball is placed in the nearest unoccupied hex of your choice."
+},
+{	"Type":"Event",
+	"Name":"Give 110%",
+	"Set":"Base",
+	"Art":"",
+	"Text": "A player may move an additional two spaces this round."
+},
+{	"Type":"Event",
+	"Name":"Hail Mary",
+	"Set":"Base",
+	"Art":"",
+	"Text": "A player pay pass the ball to another player anywhere else on the board until the end of the round. If an interception is attempted on the pass the interceptor gets a x2 bonus."
+},
+{	"Type":"Event",
+	"Name":"Multiball!",
+	"Set":"Base",
+	"Art":"",
+	"Text": "Put another ball into play in the center of the field, if the center of the field is occupied. Put it in the nearest unoccupied space."
+},
+{	"Type":"Event",
+	"Name":"Put a Little English on It",
+	"Set":"Base",
+	"Art":"",
+	"Text": "A ball does not have to follow a straight path when shot or passed for this round."
+},
+{	"Type":"Event",
+	"Name":"Second Wind",
+	"Set":"Base",
+	"Art":"",
+	"Text": "A player who was “down” or “tired” becomes “active”. They may take an extra action this round."
+},
+{	"Type":"Event",
+	"Name":"Stiff Arm",
+	"Set":"Base",
+	"Art":"",
+	"Text": "A player who was “down” or “tired” becomes “active”. They may take an extra action this round."
+},
+{	"Type":"Event",
+	"Name":"Substitution",
+	"Set":"Base",
+	"Art":"",
+	"Text": "Change out one of your player cards for one of the player cards not currently in the game. They stay in the same spot in the playing area and retain control of a ball if applicable. The new player comes into play “active”."
+},
+{	"Type":"Event",
+	"Name":"Three Yards and a Cloud of Dust",
+	"Set":"Base",
+	"Art":"",
+	"Text": "Move on of your players 3 spaces. The player may not be checked this round."
+},
+{	"Type":"Event",
+	"Name":"Trade!",
+	"Set":"Base",
+	"Art":"",
+	"Text": "A player of your opponent’s becomes yours (your choice) and a player of yours becomes that opponent’s player (their choice). The positions of the players do not change."
+},
+{	"Type":"Event",
+	"Name":"Unoball!",
+	"Set":"Base",
+	"Art":"",
+	"Text": "Remove a ball of your choice from play, you can only play this card if there is currently more than one ball in play."
+},
+{	"Type":"Event",
+	"Name":"Vortex",
+	"Set":"Base",
+	"Art":"",
+	"Text": "Each team moves each player from a team to their right anywhere within the playing area that they wish. Any player in control of a ball retains control of the ball."
+}
+]
