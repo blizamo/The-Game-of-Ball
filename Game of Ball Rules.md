@@ -1,7 +1,5 @@
 #The Game of Ball - Rules v1.0
 
-The hastily typed and very rough rules to The Game of Ball. (written at 1AM, so bear with me)
-
 The idea behind the game of ball is that it is a game where the rules are constantly shifting, and a little bit chaotic. The object of the game is to score the most points.
 
 To play the game you will need these items:
@@ -70,9 +68,3 @@ The turns are made round robin and after the last player takes their third turn 
 If a player ends their move on the same hex as a ball token that player has “control” of the ball, which means they can shoot and pass it and that the ball token moves with the player when the player moves.
 
 If something causes the player to lose control of the ball the team that made the player lose control of the ball puts the ball token into the closest unoccupied hex of their choice.
-
-
------
-
-
-I have a feeling i am forgeting something major. But I am tired so it is off to bed.
