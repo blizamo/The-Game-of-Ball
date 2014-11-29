@@ -1,3 +1,10 @@
+KickStarter
+===============
+I have just started a kickstarter to get The Game of Ball published into a full fledged board game.
+
+Help out here!
+https://www.kickstarter.com/projects/2073142320/the-game-of-ball
+
 The-Game-of-Ball
 ================
 
@@ -9,3 +16,5 @@ To explain further, do you remember the game you played as a kid, where you just
 
 
 The Game of Ball is that game. Except it's a board game, so you don't have to go outside or exert yourself physically in any way.
+
+For more information visit: http://blizamo.com/thegameofball
